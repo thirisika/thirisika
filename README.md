@@ -8,11 +8,11 @@
 <img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=thirisika&theme=xcode" />
 </p>
 
-<!--<div align="left"> 
+<div align="left"> 
        
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mayuravaani.medium.com) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thirisika96) 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://infotec016.blogspot.com) 
-</div>-->
+</div>
 
 <!--
 **thirisika/thirisika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
